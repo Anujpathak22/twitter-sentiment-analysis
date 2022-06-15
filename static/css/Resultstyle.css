@@ -1,0 +1,29 @@
+body {
+  color:black ;
+  background-color: white;
+ 
+}
+
+#contact {
+  background-color: black;
+  padding:25px;
+  margin:50px 0;
+}
+
+#contact h1{
+  color:white;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.table {
+  width: 95% ; 
+  margin: auto;
+}
+
+.table-bordered {
+  border: 1px solid
+}
+
+
